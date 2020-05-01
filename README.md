@@ -1,5 +1,5 @@
 # Schema comparison
-Comparison of different standards describing data
+Comparison of different Standards describing data
 
 
 
