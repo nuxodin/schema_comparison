@@ -9,7 +9,7 @@ Comparison of different Standards describing data
 | type          | type          | Type            |
 | format        | type          | -               |
 | multipleOf    | steps         | decimal(12,`2`) |
-| minLength     | -             | -               |
+| minLength     | minlength     | -               |
 | maxLength     | maxlength     | length          |
 | min           | min           | -               |
 | max           | max           | -               |
