@@ -15,6 +15,7 @@ Comparison of different Standards describing data
 | max           | max           | -               |
 | required      | required      | NOT NULL        |
 | pattern       | pattern       | -               |
+| enum          | <select>      | ENUM            |
 
 
 ## Subtype values
