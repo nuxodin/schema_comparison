@@ -4,18 +4,18 @@ Comparison of different Standards describing data
 
 ## Properties
 
-| JSON-Schema   | HTML-Input    | SQL             |
-| ------------- | ------------- | --------------- |
-| type          | type          | Type            |
-| format        | type          | -               |
-| multipleOf    | steps         | decimal(12,`2`) |
-| minLength     | minlength     | -               |
-| maxLength     | maxlength     | length          |
-| min           | min           | -               |
-| max           | max           | -               |
-| required      | required      | NOT NULL        |
-| pattern       | pattern       | -               |
-| enum          | <select>      | ENUM            |
+| JSON-Schema   | HTML-Input     | SQL             |
+| ------------- | -------------  | --------------- |
+| type          | type           | Type            |
+| format        | type           | -               |
+| multipleOf    | steps          | decimal(12,`2`) |
+| minLength     | minlength      | -               |
+| maxLength     | maxlength      | length          |
+| min           | min            | -               |
+| max           | max            | -               |
+| required      | required       | NOT NULL        |
+| pattern       | pattern        | -               |
+| enum          | select-element | ENUM            |
 
 
 ## Subtype values
