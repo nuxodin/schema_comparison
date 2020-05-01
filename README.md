@@ -22,9 +22,9 @@ Comparison of different Standards describing data
 
 | JSON-Schema   | HTML-Input (type-attr)  | HTML-Input (autocomplete-attr) | SQL      |
 | ------------- | ----------------------- | ------------------------------ | -------- |
-| date-time     | date-time               | -                              | datetime | 
-| date          | date                    | -                              | date     |
-| time          | time                    | -                              | -        |
+| date-time     | date-time               | -                              | DATETIME | 
+| date          | date                    | -                              | DATE     |
+| time          | time                    | -                              | TIME     |
 | url           | url                     | url                            | -        |
 | -             | tel                     | tel                            | -        |
 
