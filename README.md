@@ -10,3 +10,4 @@ Comparison of different standards describing data
 | maxLength     | maxlength     | length |
 | min     | min     | - |
 | max     | max     | - |
+| required     | required     | NOT NULL |
