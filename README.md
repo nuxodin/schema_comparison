@@ -2,6 +2,7 @@
 Comparison of different Standards describing data
 
 
+## Properties
 
 | JSON-Schema        | HTML-Input           | SQL  |
 | ------------- | ------------- | ----- |
@@ -15,7 +16,7 @@ Comparison of different Standards describing data
 | pattern     | pattern     | - |
 
 
-# Subtype values
+## Subtype values
 
 
 | JSON-Schema   | HTML-Input (type-attr)  | HTML-Input (autocomplete-attr) | SQL  |
