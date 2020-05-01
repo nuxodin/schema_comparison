@@ -17,7 +17,8 @@ Comparison of different standards describing data
 
 # Subtype values
 
-| JSON-Schema        | HTML-Input (type-attr)           |HTML-Input (autocomplete-attr)           | SQL  |
-| ------------- | ------------- | ----- | sql      |
-| date-time     | date-time     | -     | datetime | 
-| date          | date          | -     | date     |
+
+| JSON-Schema   | HTML-Input (type-attr)  | HTML-Input (autocomplete-attr) | SQL  |
+| ------------- | ----------------------- | ------------------------------ | -------- |
+| date-time     | date-time               | -                              | datetime | 
+| date          | date                    | -                              | date     |
