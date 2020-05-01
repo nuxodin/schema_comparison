@@ -8,9 +8,9 @@ Comparison of different Standards describing data
 | ------------- | -------------  | --------------- |
 | type          | type           | Type            |
 | format        | type           | -               |
-| multipleOf    | steps          | decimal(12,`2`) |
 | minLength     | minlength      | -               |
 | maxLength     | maxlength      | length          |
+| multipleOf    | steps          | decimal(12,`2`) |
 | min           | min            | -               |
 | max           | max            | -               |
 | required      | required       | NOT NULL        |
