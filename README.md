@@ -6,7 +6,7 @@ Comparison of different Standards describing data
 | JSON-Schema        | HTML-Input           | SQL  |
 | ------------- | ------------- | ----- |
 | type          | type          | Type |
-| subtype       | format          | - |
+| format       | type          | - |
 | multipleOf    | steps         | decimal(12,`2`) |
 | maxLength     | maxlength     | length |
 | min     | min     | - |
