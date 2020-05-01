@@ -25,6 +25,6 @@ Comparison of different Standards describing data
 | date-time     | date-time               | -                              | DATETIME | 
 | date          | date                    | -                              | DATE     |
 | time          | time                    | -                              | TIME     |
-| url           | url                     | url                            | -        |
+| url           | url                     | url (photo,impp)               | -        |
 | -             | tel                     | tel                            | -        |
 
