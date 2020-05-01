@@ -1,4 +1,4 @@
-# schema_comparison
+# Schema comparison
 Comparison of different standards describing data
 
 
