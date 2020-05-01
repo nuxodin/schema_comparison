@@ -22,3 +22,7 @@ Comparison of different Standards describing data
 | ------------- | ----------------------- | ------------------------------ | -------- |
 | date-time     | date-time               | -                              | datetime | 
 | date          | date                    | -                              | date     |
+| time          | time                    | -                              | -     |
+| url           | url                     | url                            | -     |
+| url           | url                     | url                            | -     |
+
