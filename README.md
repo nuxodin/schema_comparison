@@ -6,8 +6,18 @@ Comparison of different standards describing data
 | JSON-Schema        | HTML-Input           | SQL  |
 | ------------- | ------------- | ----- |
 | type          | type          | Type |
+| subtype       | format          | - |
 | multipleOf    | steps         | decimal(12,`2`) |
 | maxLength     | maxlength     | length |
 | min     | min     | - |
 | max     | max     | - |
 | required     | required     | NOT NULL |
+| pattern     | pattern     | NOT NULL |
+
+
+# Subtype values
+
+| JSON-Schema        | HTML-Input (type-attr)           |HTML-Input (autocomplete-attr)           | SQL  |
+| ------------- | ------------- | ----- | sql      |
+| date-time     | date-time     | -     | datetime | 
+| date          | date          | -     | date     |
