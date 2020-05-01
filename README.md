@@ -4,16 +4,17 @@ Comparison of different Standards describing data
 
 ## Properties
 
-| JSON-Schema        | HTML-Input           | SQL  |
-| ------------- | ------------- | ----- |
-| type          | type          | Type |
-| format       | type          | - |
+| JSON-Schema   | HTML-Input    | SQL             |
+| ------------- | ------------- | --------------- |
+| type          | type          | Type            |
+| format        | type          | -               |
 | multipleOf    | steps         | decimal(12,`2`) |
-| maxLength     | maxlength     | length |
-| min     | min     | - |
-| max     | max     | - |
-| required     | required     | NOT NULL |
-| pattern     | pattern     | - |
+| minLength     | -             | -               |
+| maxLength     | maxlength     | length          |
+| min           | min           | -               |
+| max           | max           | -               |
+| required      | required      | NOT NULL        |
+| pattern       | pattern       | -               |
 
 
 ## Subtype values
