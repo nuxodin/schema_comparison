@@ -20,11 +20,11 @@ Comparison of different Standards describing data
 ## Subtype values
 
 
-| JSON-Schema   | HTML-Input (type-attr)  | HTML-Input (autocomplete-attr) | SQL  |
+| JSON-Schema   | HTML-Input (type-attr)  | HTML-Input (autocomplete-attr) | SQL      |
 | ------------- | ----------------------- | ------------------------------ | -------- |
 | date-time     | date-time               | -                              | datetime | 
 | date          | date                    | -                              | date     |
-| time          | time                    | -                              | -     |
-| url           | url                     | url                            | -     |
-| -             | tel                     | tel                            | -     |
+| time          | time                    | -                              | -        |
+| url           | url                     | url                            | -        |
+| -             | tel                     | tel                            | -        |
 
