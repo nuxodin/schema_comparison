@@ -24,5 +24,5 @@ Comparison of different Standards describing data
 | date          | date                    | -                              | date     |
 | time          | time                    | -                              | -     |
 | url           | url                     | url                            | -     |
-| url           | url                     | url                            | -     |
+| -             | tel                     | tel                            | -     |
 
