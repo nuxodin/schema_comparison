@@ -12,7 +12,7 @@ Comparison of different standards describing data
 | min     | min     | - |
 | max     | max     | - |
 | required     | required     | NOT NULL |
-| pattern     | pattern     | NOT NULL |
+| pattern     | pattern     | - |
 
 
 # Subtype values
