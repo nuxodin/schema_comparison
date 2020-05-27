@@ -11,8 +11,8 @@ Comparison of different Standards describing data
 | minLength     | minlength      | -               |
 | maxLength     | maxlength      | length          |
 | multipleOf    | steps          | decimal(12,`2`) |
-| min           | min            | -               |
-| max           | max            | -               |
+| minimum       | min            | -               |
+| maximum       | max            | -               |
 | required      | required       | NOT NULL        |
 | pattern       | pattern        | -               |
 | enum          | select-element | ENUM            |
